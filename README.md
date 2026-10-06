@@ -133,3 +133,36 @@ The main security risks for BrightLayer Stores are account compromise, website a
 This assessment follows the standard cybersecurity risk flow:
 
 **Asset → Threat → Vulnerability → Risk → Recommendation**
+
+
+# Day 02 – Networking Fundamentals
+
+**Student:** Gaurav Jain  
+**Topic:** Networking Fundamentals  
+**Task:** Basic Networking Theory and Network Troubleshooting
+
+## Overview
+
+This task covers the fundamentals of computer networking and their importance in cybersecurity.
+
+### Topics Covered
+
+- Computer Networks
+- Client and Server
+- LAN and WAN
+- Switches and Routers
+- Firewalls
+- IP Addresses
+- MAC Addresses
+- Default Gateway
+- DNS
+- Networking and Cybersecurity
+
+## Practical Work
+
+The following Windows networking commands were practiced:
+
+```text
+ipconfig
+ping
+tracert
